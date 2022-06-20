@@ -41,7 +41,7 @@
 </p>
 
 
-📌 <i>My Proyects:</i>
+📌<b><i>My Proyects:</i></b>
 
 - BarberApp
 <p>
