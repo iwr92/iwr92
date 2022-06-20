@@ -45,12 +45,12 @@
 
 - BarberApp
 <p>
-<img src="https://i.ibb.co/VJdxZ1T/Sin-t-tulo.png" width="500px"/>
-<img src="https://i.ibb.co/YhRJ2T1/2.png" width="500px"/>
-<img src="https://i.ibb.co/XzPq4mZ/3.png" width="500px"/>
-<img src="https://i.ibb.co/m0Jh0RC/4.png" width="500px"/>
-<img src="https://i.ibb.co/VJvMzTG/5.png" width="500px"/>
-<img src="https://i.ibb.co/jDq7Bqz/6.png" width="500px"/>
+<img src="https://i.ibb.co/VJdxZ1T/Sin-t-tulo.png" width="300px"/>
+<img src="https://i.ibb.co/YhRJ2T1/2.png" width="300px"/>
+<img src="https://i.ibb.co/XzPq4mZ/3.png" width="300px"/>
+<img src="https://i.ibb.co/m0Jh0RC/4.png" width="300px"/>
+<img src="https://i.ibb.co/VJvMzTG/5.png" width="300px"/>
+<img src="https://i.ibb.co/jDq7Bqz/6.png" width="300px"/>
 </p>
 
 - PokeApp
