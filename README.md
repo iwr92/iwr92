@@ -55,10 +55,10 @@
 
 - PokeApp
 <p>
-<img src="https://i.ibb.co/SVM9n4S/1.png" width="500px"/>
-<img src="https://i.ibb.co/rkwjGdD/2.png" width="500px"/>
-<img src="https://i.ibb.co/nzTxjpc/3.png" width="500px"/>
-<img src="https://i.ibb.co/mtyc0Rd/4.png" width="500px"/>
+<img src="https://i.ibb.co/SVM9n4S/1.png" width="300px"/>
+<img src="https://i.ibb.co/rkwjGdD/2.png" width="300px"/>
+<img src="https://i.ibb.co/nzTxjpc/3.png" width="300px"/>
+<img src="https://i.ibb.co/mtyc0Rd/4.png" width="300px"/>
 </p>
 
 
